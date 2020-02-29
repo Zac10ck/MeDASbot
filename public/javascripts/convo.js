@@ -1,11 +1,7 @@
 var botui = new BotUI('api-bot');
 
-//var socket = io.connect('http://178.128.180.245:8010');
+var socket = io.connect('http://localhost:8010');
 // read the BotUI docs : https://docs.botui.org/
-
-var socket = io.connect('http://178.128.180.245:8010');
-
-
 
 botui.message.add({
   content: 'Lets Start Talking...',
@@ -37,7 +33,7 @@ function newMessage (response) {
 function addAction () {
   botui.action.text({
     action: {
-      placeholder: 'enter response...',
+      placeholder: 'enter response...', 
     }
   }).then(function (res) {
     socket.emit('fromClient', { client : res.value });
