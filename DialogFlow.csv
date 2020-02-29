@@ -1,0 +1,36 @@
+@sys.date-time,no,"Matches date, time, intervals or date and time together","String in ISO-8601 format
+or
+Object: Strings in
+ISO-8601 format"
+@sys.date,no,Matches a date,String in ISO-8601 format
+@sys.date-period,no,Matches a date interval,"Object: Strings in
+ISO-8601 format"
+@sys.time,no,Matches a time,String in ISO-8601 format
+@sys.time-period,no,Matches a time interval,"Object: Strings in
+ISO-8601 format"
+@sys.number,yes,Ordinal and cardinal numbers,Number
+@sys.cardinal,yes,Cardinal numbers,Number
+@sys.ordinal,no,Ordinal numbers,Number
+@sys.number-integer,yes,Matches integers only,Number
+@sys.number-sequence,yes,Matches number sequences,String
+@sys.flight-number,yes,Alphanumeric flight numbers,String
+@sys.unit-area,no,Number + units of area,"Object: amount integer +
+unit String"
+@sys.unit-currency,no,Number + currency name,"Object: amount integer +
+currency String in
+ISO 4217 format"
+@sys.unit-length,no,Number + units of length,"Object: amount integer +
+unit String"
+@sys.unit-speed,no,Number + units of speed,"Object: amount integer +
+unit String"
+@sys.unit-volume,no,Number + units of volume,"Object: amount integer +
+unit String"
+@sys.unit-weight,no,Number + units of weight,"Object: amount integer +
+unit String"
+@sys.unit-information,no,Number + unit of information,"Object: amount integer +
+unit String"
+@sys.percentage,yes,Number + percents,String
+@sys.temperature,no,Number + temperature units,"Object: amount integer +
+unit String"
+@sys.duration,no,"Number + duration units (hours, days, months etc.)","Object: amount integer +
+unit String"
