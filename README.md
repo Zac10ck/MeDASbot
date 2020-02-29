@@ -1,4 +1,4 @@
-# bot-api.ai
+# Bot with Google's Dialogflow
 ### A BotUI app connected to Google's Dialogflow
 Update : This repo was made at the time when Dialogflow was known as API.AI. You will have to use Dialogflow APIs V1 in the console to make it work, that said. this repo is no longer maintained by the creators.
 ###### FEEL FREE TO MAKE PULL REQUESTS
