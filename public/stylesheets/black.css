@@ -22,7 +22,7 @@ iframe {
 }
 .botui-message-content {
   color: #FFFFFF;
-  background-color: #F1C40F;
+  background-color: #199473;
 }
 
 .botui-message-content.human {
@@ -41,7 +41,7 @@ iframe {
 }
 
 .botui-message-content-link {
-  color: #F1C40F;
+  color: #199473;
 }
 
 .botui-messages-container {
