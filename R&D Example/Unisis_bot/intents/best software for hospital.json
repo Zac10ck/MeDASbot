@@ -1,0 +1,114 @@
+{
+  "id": "5311c4e2-96a3-4568-b608-d720d414f42d",
+  "name": "best software for hospital",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "know_more",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd0e3fc6-9309-4510-bbee-c8e28f2be72e",
+          "required": true,
+          "dataType": "@software",
+          "name": "software",
+          "value": "$software",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "yes"
+            },
+            {
+              "lang": "en-us",
+              "value": "yes"
+            },
+            {
+              "lang": "en-in",
+              "value": "yes"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c246a1ff-c265-4bf7-8642-e7df853d6088",
+          "required": true,
+          "dataType": "@unisis",
+          "name": "unisis",
+          "value": "$unisis",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Unisis Solutions is a one stop Technology Service provider. ... Our IT consulting services span into a wide spectrum to support all IT solution under one roof",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "MEDAS MIDDLE EAST SOFTWARE SYSTEMS LLC is a complete healthcare software solution provider company established in 2008 and now is a part of UNISIS Group. MEDAS goes beyond just being a product vendor, but encourages clients to customize and enhance the solutions to meet their specific needs. MEDAS provides Complete ERP solutions for Hospitals, Polyclinics, Pharmacies, Laboratories and health insurance organizations of any size.",
+            "would you like to know more about MeDas Hospital Software",
+            "Please find some time to check out the Links below to know more \n\nhttp://medasuae.com/"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {}
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": "MEDAS MIDDLE EAST SOFTWARE SYSTEMS LLC is a complete healthcare software solution provider company established in 2008 and now is a part of UNISIS Group. MEDAS goes beyond just being a product vendor, but encourages clients to customize and enhance the solutions to meet their specific needs. MEDAS provides Complete ERP solutions for Hospitals, Polyclinics, Pharmacies, Laboratories and health insurance organizations of any size."
+        },
+        {
+          "type": 4,
+          "lang": "en-us",
+          "condition": "",
+          "payload": {}
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "MEDAS MIDDLE EAST SOFTWARE SYSTEMS LLC is a complete healthcare software solution provider company established in 2008 and now is a part of UNISIS Group. MEDAS goes beyond just being a product vendor, but encourages clients to customize and enhance the solutions to meet their specific needs. MEDAS provides Complete ERP solutions for Hospitals, Polyclinics, Pharmacies, Laboratories and health insurance organizations of any size."
+        },
+        {
+          "type": 4,
+          "lang": "en-in",
+          "condition": "",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

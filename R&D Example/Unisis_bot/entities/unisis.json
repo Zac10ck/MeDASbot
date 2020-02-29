@@ -1,0 +1,9 @@
+{
+  "id": "dd1a59ac-8144-4800-b289-3a2f9c3b5452",
+  "name": "unisis",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

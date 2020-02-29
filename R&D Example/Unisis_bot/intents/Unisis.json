@@ -1,0 +1,49 @@
+{
+  "id": "8de7797e-c8ae-4fbc-9bf0-b334bd284be9",
+  "name": "Unisis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Unisis Solutions is a one stop Technology Service provider. ... Our IT consulting services span into a wide spectrum to support all IT solution under one roof."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Unisis Solutions is a one stop Technology Service provider. ... Our IT consulting services span into a wide spectrum to support all IT solution under one roof.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

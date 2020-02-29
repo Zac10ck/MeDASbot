@@ -1,0 +1,9 @@
+{
+  "id": "99d262e9-2787-48b0-8f15-62c8612ab502",
+  "name": "software",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

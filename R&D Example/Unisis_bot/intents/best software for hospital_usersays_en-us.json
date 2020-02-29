@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e8490d56-1458-4f0f-8590-91524a632cca",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "software",
+        "alias": "software",
+        "meta": "@software",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "hospital",
+        "alias": "unisis",
+        "meta": "@unisis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

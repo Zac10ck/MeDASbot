@@ -1,0 +1,50 @@
+[
+  {
+    "value": "Business",
+    "synonyms": [
+      "Business",
+      "clinic",
+      "detal clinic",
+      "gas",
+      "hospital",
+      "industires",
+      "industry",
+      "oil",
+      "oil and gas",
+      "petrolium",
+      "petrolium industry"
+    ]
+  },
+  {
+    "value": "country",
+    "synonyms": [
+      "KSA",
+      "country",
+      "dubai",
+      "gulf",
+      "india",
+      "saudi",
+      "saudi arabia"
+    ]
+  },
+  {
+    "value": "software",
+    "synonyms": [
+      "HIMS",
+      "computer software",
+      "medas",
+      "software",
+      "unisis erp"
+    ]
+  },
+  {
+    "value": "software",
+    "synonyms": [
+      "Java",
+      "microsoft",
+      "ms sql server",
+      "mysql",
+      "software"
+    ]
+  }
+]

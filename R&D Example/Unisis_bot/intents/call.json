@@ -1,0 +1,57 @@
+{
+  "id": "6b0efe19-de77-4670-b1d0-41f709ca4796",
+  "name": "call",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "name",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56147813-d3d5-4d0d-8a41-80dee568ac55",
+          "required": true,
+          "dataType": "@sys.age",
+          "name": "google",
+          "value": "20",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": "My Name is Isabella"
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "My Name is Isabella"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "My Name is Isabella"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

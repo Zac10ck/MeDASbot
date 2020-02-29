@@ -1,0 +1,67 @@
+[
+  {
+    "value": "ERP",
+    "synonyms": [
+      "ERP",
+      "ERP Program",
+      "ERP Software",
+      "Industrial Program",
+      "accounting program",
+      "accounting software",
+      "oil and Gas industry"
+    ]
+  },
+  {
+    "value": "HIMS",
+    "synonyms": [
+      "Clinic Software",
+      "HIMS",
+      "Healthcare software",
+      "hospital informationmanagement system",
+      "hospital software",
+      "software for clinic"
+    ]
+  },
+  {
+    "value": "Hopsital",
+    "synonyms": [
+      "Hopsital",
+      "clinic",
+      "dental clinic",
+      "lab",
+      "labs"
+    ]
+  },
+  {
+    "value": "unisis",
+    "synonyms": [
+      "GCC",
+      "Jeddha",
+      "country",
+      "county",
+      "dammam",
+      "dubai",
+      "gulf",
+      "jubail",
+      "kobar",
+      "macca",
+      "madena",
+      "makka",
+      "middle east",
+      "riyadh",
+      "saudi",
+      "unisis"
+    ]
+  },
+  {
+    "value": "unisis",
+    "synonyms": [
+      "ERP",
+      "HIMS",
+      "medas",
+      "software",
+      "unisis",
+      "unisis ERP"
+    ]
+  }
+]

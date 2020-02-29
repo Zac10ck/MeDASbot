@@ -1,0 +1,86 @@
+{
+  "id": "6714a7e3-5906-4296-8589-b5808293a6d6",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "I\u0027m not totally sure about that.",
+            "I\u0027m not sure I follow.",
+            "Are you From Unisis Solution Kochi ..??  No doubt you ask this Question",
+            "Please consult with kiran RP (aka KRP)",
+            "എടാ എടാ അലവലാതി sabu",
+            "നീ എന്തൊരു തോല്‍വി ആണെടാ",
+            "ഒഞ്ഞു പോടാപ്പാ",
+            "എന്തോനാടെ ഇത് ...മനുഷ്യന് മനസിലാകുന്ന ഭാഷയില്‍ വലതും പറ",
+            "ഞാന്‍ പിണങ്ങി ...",
+            "അത് അറ്റിങ്ങേല്‍ പോയി പറഞ്ഞാല്‍ മതി",
+            "ആ ഇതൊന്നും എനിക്കറിയില്ല ...!!!",
+            "എന്താന് കവി ഉദേശിച്ചത്",
+            "ജബ ....ജബ.....ജാബാ ..."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "I\u0027m not totally sure about that.",
+            "I\u0027m not sure I follow.",
+            "Are you From Unisis Solution Kochi ..??  No doubt you ask this Question",
+            "Please consult with kiran RP (aka KRP)",
+            "എടാ എടാ അലവലാതി sabu",
+            "നീ എന്തൊരു തോല്‍വി ആണെടാ",
+            "ഒഞ്ഞു പോടാപ്പാ",
+            "എന്തോനാടെ ഇത് ...മനുഷ്യന് മനസിലാകുന്ന ഭാഷയില്‍ വലതും പറ",
+            "ഞാന്‍ പിണങ്ങി ...",
+            "അത് അറ്റിങ്ങേല്‍ പോയി പറഞ്ഞാല്‍ മതി",
+            "ആ ഇതൊന്നും എനിക്കറിയില്ല ...!!!",
+            "എന്താന് കവി ഉദേശിച്ചത്",
+            "ജബ ....ജബ.....ജാബാ ..."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m not totally sure about that.",
+            "I\u0027m not sure I follow.",
+            "Are you From Unisis Solution Kochi ..??  No doubt you ask this Question",
+            "Please consult with kiran RP (aka KRP)",
+            "എടാ എടാ അലവലാതി sabu",
+            "നീ എന്തൊരു തോല്‍വി ആണെടാ",
+            "ഒഞ്ഞു പോടാപ്പാ",
+            "എന്തോനാടെ ഇത് ...മനുഷ്യന് മനസിലാകുന്ന ഭാഷയില്‍ വലതും പറ",
+            "ഞാന്‍ പിണങ്ങി ...",
+            "അത് അറ്റിങ്ങേല്‍ പോയി പറഞ്ഞാല്‍ മതി",
+            "ആ ഇതൊന്നും എനിക്കറിയില്ല ...!!!",
+            "എന്താന് കവി ഉദേശിച്ചത്",
+            "ജബ ....ജബ.....ജാബാ ..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
