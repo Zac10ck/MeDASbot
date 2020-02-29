@@ -2,8 +2,8 @@ var apiai = require('apiai');
 
 // read the api.ai docs : https://api.ai/docs/
 
-//Enter your API Key
-var app = apiai('95578fa22fcd473f9e2260a2dc07054c');
+//Enter your API Key Client Token from the Google Dialog Console 
+var app = apiai('346535ee425f4977bae1143ffa9e74f5');
 
 // Function which returns speech from api.ai
 var getRes = function(query) {
