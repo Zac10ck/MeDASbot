@@ -21,7 +21,7 @@ Follow these steps below
 4. Place your Key in config/api.js
 5. `npm install`
 6. `node bin/www`
-7. Open Browser , go to "localhost:3000"
+7. Open Browser , go to "178.128.180.245:3000"
 
   Edit the Chat Flow from public/javascripts/convo.js
 
