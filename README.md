@@ -1,6 +1,5 @@
 # bot-api.ai
-### A BotUI app connected to API.AI.
-
+### A BotUI app connected to Google's Dialogflow
 Update : This repo was made at the time when Dialogflow was known as API.AI. You will have to use Dialogflow APIs V1 in the console to make it work, that said. this repo is no longer maintained by the creators.
 ###### FEEL FREE TO MAKE PULL REQUESTS
 
@@ -13,7 +12,7 @@ OR...
 
 Follow these steps below
 
-1. Go to [API.AI](https://www.api.ai) and get a key!
+1. Go to [Dialogflow](https://dialogflow.com/) and get a key!
 2. Clone the Repo,
   `
   git clone https://github.com/Zac10ck/MeDASbot.git
