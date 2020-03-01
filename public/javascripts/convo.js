@@ -3,6 +3,8 @@ var botui = new BotUI('api-bot');
 var socket = io.connect('http://localhost:8010');
 // read the BotUI docs : https://docs.botui.org/
 
+
+
 botui.message.add({
   content: 'Lets Start Talking...',
   delay: 1500,
@@ -33,7 +35,7 @@ function newMessage (response) {
 function addAction () {
   botui.action.text({
     action: {
-      placeholder: 'enter response...', 
+      placeholder: 'enter response...',
     }
   }).then(function (res) {
     socket.emit('fromClient', { client : res.value });
